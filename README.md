@@ -54,6 +54,3 @@
 
 ⭐ *Always happy to connect and collaborate!*
 
-<p align="center">
-  <img src="https://github.com/anhtuan170205/anhtuan170205/blob/output/github-contribution-grid-snake.svg" />
-</p>
