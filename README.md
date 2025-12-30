@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anh Tuan Tran</h1>
-<h3 align="center">Sophomore @ HCMUT | Self-taught Game Developer</h3>
+<h3 align="center">Junior @ HCMUT | Exchange Student @ OTH Regensburg | Self-taught Game Developer</h3>
 
 - I’m currently learning **Unity, .NET**
 - Interested in Game Development (Programming & Design), Backend Systems, and Fullstack Web Development
