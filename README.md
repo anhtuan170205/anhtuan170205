@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anh Tuan Tran</h1>
-<h3 align="center">Junior @ HCMUT | Dedicated Game Developer</h3>
+<h3 align="center">Junior @ HCMUT | Intern Game Developer</h3>
 
 - Focused on **Game Development with Unity**
 - Interested in **Game Programming, Game Design, and interactive experiences**
